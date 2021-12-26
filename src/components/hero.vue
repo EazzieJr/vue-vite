@@ -8,11 +8,11 @@ export default {
     <section class="hero bg-center bg-contain bg-no-repeat bg-fixed">
         <div class="hero-container h-screen bg-white bg-opacity-70 pt-20">
             <div class="texts">
-                <h1 class="hero-header capitalize font-montserrat text-[#333333] font-bold text-4xl pr-16 leading-normal">
+                <h1 class="hero-header capitalize font-montserrat text-[#333333] font-bold text-4xl sm:text-5xl pr-16 sm:pr-40 leading-normal">
                     the safer way to send and save money
                 </h1>
 
-                <p class="hero-details font-montserrat font-semibold text-gray-700 text-base mt-16 pr-8">
+                <p class="hero-details font-montserrat font-semibold text-gray-700 text-base mt-16 pr-8 sm:pr-60">
                     A platform designed to transfer Money from any part of the world
                 </p>
             </div>
