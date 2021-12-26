@@ -2,12 +2,15 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 // import HelloWorld from './components/HelloWorld.vue'
+import Nav from './components/nav.vue'
+import Hero from './components/hero.vue' 
 </script>
 
 <template>
+  <div class="container mx-auto px-10">
+  <Nav></Nav>
 
-  <div class="w-screen h-screen flex justify-center items-center">
-    <img alt="Vue logo" src="./assets/logo.png" />
+  <Hero></Hero>
   </div>
 </template>
 
