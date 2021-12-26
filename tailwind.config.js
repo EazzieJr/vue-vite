@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         'jolly': ['Jolly Lodger'],
         'montserrat': ['Montserrat'],
+        'quicksand': ['Quicksand']
       }
     },
   },

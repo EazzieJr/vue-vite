@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <div class="nav-container py-4 bg-white flex justify-between items-center">
+    <div class="nav-container py-4 bg-blue-500 bg-opacity-70 flex justify-between items-center">
         <div class="left-container">
             <div class="logo">
                 <p class="font-jolly text-2xl text-[#3F6F9C]">
