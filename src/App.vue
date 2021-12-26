@@ -3,7 +3,9 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 // import HelloWorld from './components/HelloWorld.vue'
 import Nav from './components/nav.vue'
-import Hero from './components/hero.vue' 
+import Hero from './components/hero.vue'
+import Rewards from './components/rewards.vue'
+
 </script>
 
 <template>
@@ -11,6 +13,8 @@ import Hero from './components/hero.vue'
   <Nav></Nav>
 
   <Hero></Hero>
+
+  <Rewards></Rewards>
   </div>
 </template>
 
