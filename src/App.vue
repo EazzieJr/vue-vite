@@ -11,7 +11,7 @@ import Footer from './components/footer.vue'
 </script>
 
 <template>
-  <div class="container mx-auto px-10">
+  <div class="container mx-auto px-10 sm:px-12">
   <Nav></Nav>
 
   <Hero></Hero>
@@ -23,7 +23,7 @@ import Footer from './components/footer.vue'
 
   <Transfer></Transfer>
 
-  <Manage></Manage>
+  <Manage msg="Manage Account"></Manage>
 
   <HappyCustomers></HappyCustomers>
 

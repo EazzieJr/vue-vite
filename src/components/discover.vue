@@ -8,7 +8,7 @@ export default {
     <section class="discover py-20">
         <div class="discover-container space-y-10">
             <div class="top-container">
-                <h4 class="font-montserrat text-xl font-bold text-center">
+                <h4 class="font-montserrat text-xl sm:text-2xl font-bold text-center">
                     Discover the key
                 </h4>
             </div>
@@ -20,11 +20,11 @@ export default {
                     </div>
 
                     <div class="middle space-y-2">
-                        <h4 class="header font-montserrat font-semibold text-xl">
+                        <h4 class="header font-montserrat font-semibold text-xl sm:text-2xl">
                             Multiple Wallets
                         </h4>
 
-                        <p class="details font-quicksand text-sm pr-20">
+                        <p class="details font-quicksand text-sm sm:text-base pr-20">
                             Add multiple wallets to make finances more fluid
                         </p>
                     </div>
@@ -43,11 +43,11 @@ export default {
                     </div>
 
                     <div class="middle space-y-2">
-                        <h4 class="header font-montserrat font-semibold text-xl">
+                        <h4 class="header font-montserrat font-semibold text-xl sm:text-2xl">
                             Personalized Digital Cards
                         </h4>
 
-                        <p class="details font-quicksand text-sm pr-20">
+                        <p class="details font-quicksand text-sm sm:text-base pr-20">
                             Request for and get a digital that can be used anywhere.
                         </p>
                     </div>
@@ -66,11 +66,11 @@ export default {
                     </div>
 
                     <div class="middle space-y-2">
-                        <h4 class="header font-montserrat font-semibold text-xl">
+                        <h4 class="header font-montserrat font-semibold text-xl sm:text-2xl">
                             Payment of Bills
                         </h4>
 
-                        <p class="details font-quicksand text-sm pr-20">
+                        <p class="details font-quicksand text-sm sm:text-base pr-20">
                             Settle your bills fast and easy.
                         </p>
                     </div>
